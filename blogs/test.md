@@ -26,6 +26,7 @@ console.log(moi)
 for (const i = 0; i < 5; i++) {
   console.log("koira")
 }
+```
 
 
 Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following
