@@ -20,6 +20,13 @@ for (i = 0; i < 5; i++):
   print(i)
 ```
 
+```typescript
+const moi = "moi"
+console.log(moi)
+for (const i = 0; i < 5; i++) {
+  console.log("koira")
+}
+
 
 Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following
 equation.
