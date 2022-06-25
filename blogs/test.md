@@ -11,6 +11,15 @@ __Advertisement :)__
 
 You will like those projects!
 
+```python
+int = 1
+def koira(kissa):
+  print(kissa)
+ 
+for (i = 0; i < 5; i++):
+  print(i)
+```
+
 ---
 
 # h1 Heading 8-)
